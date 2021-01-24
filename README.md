@@ -1,2 +1,2 @@
-# monkey-go-boom-boom
-my sister loud
+# project38
+Monkey game with camera 
